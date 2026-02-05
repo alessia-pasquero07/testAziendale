@@ -1,0 +1,10 @@
+criteri che definisco un buon test case:
+
+"io ho fatto questo secondo i criteri del mondo guarda come ho fatto i test e visto che
+ ci sei riscrivimeli affinche siano strutturati correttamente"
+
+ ma per chiedere una specifica:
+
+ "crea i test case; ecco i titoli dei test case"
+
+ MA QUESTO NON FUNZIONA; 
