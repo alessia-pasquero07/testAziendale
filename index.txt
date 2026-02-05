@@ -1,0 +1,13 @@
+1. la gestione delle informazioni è corretta? 
+2. al refresh vi sono le informazioni di una persona tutte al centro della pagina?
+3. e di facile comprensione?
+4. per la ricerca approfondita vi sono: pulsanti di navigazione (avanti, indietro, etc)
+ slider di selezione del numero di record da caricare
+ radio buttons di selezione male / female / tutti
+ checkbox relativi alle nat degli utenti da visualizzare (impostare manualmente 5 o 6 nomi: Brasile,
+Germania, Italia, etc.)
+5. cliccando sulla 2 voce della navbar vi sono le foto degli utenti che compaiono con effetto progressivo?
+6. la documentazione contiene link che portano a dei titoli della pagina che spiegano le varie cose?
+7. vi è nella navbar una voce per entrare nella pagine delle varie versioni di randomuser?
+8. vi è un grafico che vede gli accessi negli ultimi giorni e che contiene sotto div con elementi progressivi?
+9. la donate si assicura che non sei un robot?
