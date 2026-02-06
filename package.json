@@ -1,0 +1,26 @@
+{
+  "name": "testaziendale",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testingRandomUser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test:randomuser": "npx playwright test tests/randomuser.spec.js",
+    "debug:randomuser": "node debugRun.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alessia-pasquero07/testAziendale.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alessia-pasquero07/testAziendale/issues"
+  },
+  "homepage": "https://github.com/alessia-pasquero07/testAziendale#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.1",
+    "playwright": "^1.58.1"
+  }
+}
